@@ -1,2 +1,2 @@
-# deviant-knowledge
-Deviant Knowledge
+# knowledge-client
+Knowledge Client
