@@ -135,11 +135,6 @@ export default {
   border: 0;
   padding: 0;
 }
-
-
-    .columns, .library, .editor, .search {
-        height: 100%;
-    }
     .library {
         background-color: rgb(20, 20, 20);
         padding-left: 20px;
@@ -175,5 +170,9 @@ export default {
         font-size: 12px;
         color: white;
         margin-left: 20px;
+    }
+
+    .editor {
+        margin-top: 20px;
     }
 </style>
